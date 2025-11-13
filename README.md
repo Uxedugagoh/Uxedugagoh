@@ -2,7 +2,24 @@
 Я начинающий разработчик. В данный момент я фокусируюсь на развитии в направлении Java разработки.
 
 ## Выполненные задания, пройденные курсы:
-### Java Basics, Ulearn.
+### Java Spring
+<ul>
+  <li>
+    <a href="https://github.com/Uxedugagoh/spring-boot-shopping-list">spring-boot-shopping-list</a> - Приложение реализующее создание, изменение и удаления списка покупок. Использует технологии Spring boot, Hibernate, H2 Database(временно, заменю на Postgres), Maven. Упор на backend часть.
+  </li>
+</ul>
+
+### Java, Spring. Ulearn.
+<ul>
+  <li>
+    <a href="https://github.com/Uxedugagoh/spring-posts">spring-posts</a> - Приложение реализующее добавление постов, и возможность их лайкать.
+  </li>
+  <li>
+    <a href="https://github.com/Uxedugagoh/servlets">servlets</a> - Приложение, демонстрирующее работу сервлетов.
+  </li>
+</ul>
+
+### Java Basics. Ulearn.
 <ul>
   <li>
     <a href="https://github.com/Uxedugagoh/2-java-types">2-java-types</a> - Базовый синтаксис. Типы.
@@ -36,5 +53,15 @@
   </li>
   <li>
     <a href="https://github.com/Uxedugagoh/12-java-tests">12-java-tests</a> - Тестирование.
+  </li>
+</ul>
+
+### ЮУрГУ
+<ul>
+  <li>
+    <a href="https://github.com/Uxedugagoh/spring-posts">spring-posts</a> - Приложение реализующее добавление постов, и возможность их лайкать.
+  </li>
+  <li>
+    <a href="https://github.com/Uxedugagoh/servlets">servlets</a> - Приложение, демонстрирующее работу сервлетов.
   </li>
 </ul>
