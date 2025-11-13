@@ -59,7 +59,7 @@
 ### ЮУрГУ
 <ul>
   <li>
-    <a href="https://github.com/Uxedugagoh/Practic">Practic. 3D, Unity, C#</a> - Unity, C#. Летняя практика. Приложение реализующее просмотр и частичное редактирование 3D файлов.
+    <a href="https://github.com/Uxedugagoh/Practic">Practic. 3D, Unity, C#</a> - Unity, C#. Летняя практика. Приложение, которое реализует просмотр и частичное редактирование 3D файлов.
   </li>
   <li>
     <a href="https://github.com/Uxedugagoh/web2023susuCE304">web2023susuCE304</a> - Базовый веб-дизайн. HTML, JavaScript.
