@@ -59,9 +59,12 @@
 ### ЮУрГУ
 <ul>
   <li>
-    <a href="https://github.com/Uxedugagoh/spring-posts">spring-posts</a> - Приложение реализующее добавление постов, и возможность их лайкать.
+    <a href="https://github.com/Uxedugagoh/Practic">Practic. 3D, Unity, C#</a> - Unity, C#. Летняя практика. Приложение реализующее просмотр и частичное редактирование 3D файлов.
   </li>
   <li>
-    <a href="https://github.com/Uxedugagoh/servlets">servlets</a> - Приложение, демонстрирующее работу сервлетов.
+    <a href="https://github.com/Uxedugagoh/web2023susuCE304">web2023susuCE304</a> - Базовый веб-дизайн. HTML, JavaScript.
+  </li>
+  <li>
+    <a href="https://github.com/Uxedugagoh/SorryForMath">Sorry For Math</a> - Java, Android Studio, php server. Мобильное приложение, математика на скорость. 
   </li>
 </ul>
