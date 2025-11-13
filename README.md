@@ -5,6 +5,6 @@
 ### Java
 <ul>
   <li>
-    <a href="#">123</a>
+    <a href="https://github.com/Uxedugagoh/2-java-types">123</a>
   </li>
 </ul>
