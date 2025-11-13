@@ -5,7 +5,14 @@
 ### Java Spring
 <ul>
   <li>
-    <a href="https://github.com/Uxedugagoh/spring-boot-shopping-list">spring-boot-shopping-list</a> - Приложение реализующее создание, изменение и удаления списка покупок. Использует технологии Spring boot, Hibernate, H2 Database(временно, заменю на Postgres), Maven. Упор на backend часть.
+    <a href="https://github.com/Uxedugagoh/spring-boot-shopping-list">spring-boot-shopping-list</a> - Приложение реализующее создание, изменение и удаления списка покупок, с упором на backend часть. Использует технологии:
+    <ul>
+      <li>Java 17, Maven</li>
+      <li>Spring boot 3</li>
+      <li>Hibernate</li>
+      <li>PostgreSQL, H2 database</li>
+      <li>Lombok</li>
+    </ul>
   </li>
 </ul>
 
