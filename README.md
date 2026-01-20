@@ -22,7 +22,7 @@
     <a href="https://github.com/Uxedugagoh/Expirience">Experience</a> - Задачи LeetCode. Использует технологии:
     <ul>
       <li>Java 17, Maven</li>
-      <li>JUnit5 - Unit тесты</li>
+      <li>JUnit5, AssertJ - Unit тесты</li>
     </ul>
   </li>
 </ul>
