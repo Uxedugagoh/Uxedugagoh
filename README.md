@@ -1,16 +1,18 @@
 ## Доброго денёчка!
 Я начинающий разработчик. В данный момент я фокусируюсь на развитии в направлении Java разработки.
 
-## Выполненные задания, пройденные курсы:
+## Проекты и задания:
 ### Java Spring
 <ul>
   <li>
-    <a href="https://github.com/Uxedugagoh/spring-boot-shopping-list">spring-boot-shopping-list</a> - Приложение реализующее создание, изменение и удаления списка покупок, с упором на backend часть. Использует технологии:
+    <a href="https://github.com/Uxedugagoh/FoodDelivery">Food Delivery</a> - Приложение доставки еды. Разработка с упором на backend часть. Использует технологии:
     <ul>
       <li>Java 17, Maven</li>
       <li>Spring boot 3</li>
+      <li>Spring security 3</li>
       <li>Hibernate</li>
-      <li>PostgreSQL, H2 database</li>
+      <li>H2 database</li>
+      <li>Mapstract</li>
       <li>Lombok</li>
     </ul>
   </li>
@@ -27,6 +29,7 @@
   </li>
 </ul>
 
+## Пройденные курсы:
 ### Java, Spring. Ulearn.
 <ul>
   <li>
